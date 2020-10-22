@@ -1,4 +1,4 @@
 # Bienvenido El Repositorio De Nicolas
 Cert
 
-[Visita mi repo]{http://optativa.ga}
+[Visita mi repo]{optativa.ga}
